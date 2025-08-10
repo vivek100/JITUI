@@ -8,6 +8,9 @@ JITUI is structured as a monorepo with six interoperable packages, managed via `
 
 https://preview-ai-generated-next-steps-kzmp1f43o564gbht7khh.vusercontent.net/
 
+<img width="1024" height="1024" alt="ChatGPT Image Aug 9, 2025, 06_14_28 PM" src="https://github.com/user-attachments/assets/28fcaab2-5603-4d0b-853d-b1b69dd6f0c7" />
+
+
 ## Packages
 
 The framework consists of six publishable packages, each with a specific role in enabling AI-driven workflows:
