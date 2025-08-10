@@ -4,6 +4,10 @@ The **JITUI Framework** is a modular, TypeScript-based library for building AI-n
 
 JITUI is structured as a monorepo with six interoperable packages, managed via `pnpm` workspaces and built with `tsup`. It leverages React 18, Zustand for state management, Tailwind CSS for styling, and an Action Registry Pattern for decoupled, workflow-driven interactions.
 
+# DEMO on what JIT UI can do and JUST IN TIME CRM APP
+
+https://preview-ai-generated-next-steps-kzmp1f43o564gbht7khh.vusercontent.net/
+
 ## Packages
 
 The framework consists of six publishable packages, each with a specific role in enabling AI-driven workflows:
